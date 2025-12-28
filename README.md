@@ -37,7 +37,7 @@ To run this project on your local machine:
 Clone the repository:
 
 
-git clone [https://github.com/yourusername/BudgetTracker.git](https://github.com/yourusername/BudgetTracker.git)
+git clone [https://github.com/nydroN/BudgetTracker.git](https://github.com/yourusername/BudgetTracker.git)
 
 Open in IntelliJ IDEA: Open the project folder and let Maven download the necessary dependencies.
 

@@ -1,0 +1,14 @@
+# IntelliJ Proje Dosyaları
+.idea/
+*.iml
+*.iws
+
+# Maven Derleme Klasörü
+target/
+
+# Veritabanı (Bunu yükleme, herkesin kendi veritabanı oluşsun)
+budget.db
+
+# Sistem Dosyaları
+.DS_Store
+Thumbs.db
